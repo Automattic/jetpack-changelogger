@@ -9,3 +9,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial version.
+
+### Fixed
+- Fix logic for finding autoload.php in the bin.
