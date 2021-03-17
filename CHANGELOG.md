@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Branch-alias dev-master rather than dev-monorepo, as we're removing the hack.
 
+### Fixed
+- Use `composer update` rather than `install` in scripts, as composer.lock isn't checked in.
+
 ## 1.0.0 - 2021-03-08
 ### Added
 - Initial version.
