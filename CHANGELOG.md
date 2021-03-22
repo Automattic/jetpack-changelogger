@@ -9,6 +9,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Allow "unreleased" as the date for a changelog entry.
+- Enable GitHub action for auto-tagging releases from monorepo pushes.
 
 ### Changed
 - Branch-alias dev-master rather than dev-monorepo, as we're removing the hack.
