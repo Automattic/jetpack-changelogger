@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- New option, `--filename-auto-suffix`, to ensure that a reused branch won't prevent entry creation in non-interactive mode.
+
 ### Deprecated
 - Changelogger `Config::setOutput()` is no longer needed. Config will throw a ConfigException instead of printing an error.
 
