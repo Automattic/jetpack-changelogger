@@ -3,10 +3,7 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.2.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.2.0] - 2021-05-12
 ### Added
 - New option, `--filename-auto-suffix`, to ensure that a reused branch won't prevent entry creation in non-interactive mode.
 
@@ -39,7 +36,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[1.2.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/1.1.2...1.2.0-alpha
+[1.2.0]: https://github.com/Automattic/jetpack-changelogger/compare/1.1.2...1.2.0
 [1.1.2]: https://github.com/Automattic/jetpack-changelogger/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/Automattic/jetpack-changelogger/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/1.0.0...1.1.0
