@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - BREAKING: Added method `parseVersion` to `VersioningPlugin` interface. Any versioning plugins must implement this method.
+- Update available WordPress version types
 
 ## [1.2.1] - 2021-08-30
 ### Changed
