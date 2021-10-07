@@ -3,10 +3,7 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.1-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.0.1] - 2021-10-06
 ### Changed
 - Updated package dependencies
 
@@ -56,7 +53,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[2.0.1-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/2.0.0...2.0.1-alpha
+[2.0.1]: https://github.com/Automattic/jetpack-changelogger/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/Automattic/jetpack-changelogger/compare/1.2.1...2.0.0
 [1.2.1]: https://github.com/Automattic/jetpack-changelogger/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/Automattic/jetpack-changelogger/compare/1.1.2...1.2.0
