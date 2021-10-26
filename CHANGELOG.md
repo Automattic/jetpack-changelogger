@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Set `convertDeprecationsToExceptions` true in PHPUnit config.
+
 ### Fixed
 - Adjust for PHP 8.1 compatibility.
 
