@@ -9,6 +9,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
+- Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
 
 ### Fixed
 - Adjust for PHP 8.1 compatibility.
