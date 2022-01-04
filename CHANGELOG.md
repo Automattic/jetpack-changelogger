@@ -9,6 +9,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Switch to pcov for code coverage.
+- Updated package dependencies
 
 ## [3.0.4] - 2021-12-20
 ### Changed
