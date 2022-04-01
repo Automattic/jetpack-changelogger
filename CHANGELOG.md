@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Adds additional context to the Heading seems to have a linked... error.
+
 ### Fixed
 - Deduplicate input entries. Even when `--deduplicate=0`. This may be disabled by setting `--deduplicate=-1`.
 
