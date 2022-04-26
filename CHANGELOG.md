@@ -3,10 +3,7 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.1.0] - 2022-04-26
 ### Added
 - Add 'write' command option 'add-pr-num' for adding GH PR numbers to entries.
 
@@ -112,7 +109,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[3.1.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.9...3.1.0-alpha
+[3.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.9...3.1.0
 [3.0.9]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.8...3.0.9
 [3.0.8]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.7...3.0.8
 [3.0.7]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.6...3.0.7
