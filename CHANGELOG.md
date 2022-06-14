@@ -3,12 +3,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.1.2-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.1.2] - 2022-06-14
 ### Added
-- Recognize more branch names as non-feature-branches.
+- Recognize more branch names as non-feature-branches. [#24689]
 
 ## [3.1.1] - 2022-05-18
 ### Fixed
@@ -120,7 +117,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[3.1.2-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.1.1...3.1.2-alpha
+[3.1.2]: https://github.com/Automattic/jetpack-changelogger/compare/3.1.1...3.1.2
 [3.1.1]: https://github.com/Automattic/jetpack-changelogger/compare/3.1.0...3.1.1
 [3.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.9...3.1.0
 [3.0.9]: https://github.com/Automattic/jetpack-changelogger/compare/3.0.8...3.0.9
