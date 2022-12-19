@@ -3,12 +3,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.2.3-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.2.3] - 2022-12-19
 ### Changed
-- `Utils::loadChangeFile()` now throws a custom subclass of `RuntimeException` instead of `RuntimeException` itself.
+- `Utils::loadChangeFile()` now throws a custom subclass of `RuntimeException` instead of `RuntimeException` itself. [#27949]
 
 ## [3.2.2] - 2022-12-02
 ### Changed
@@ -138,7 +135,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[3.2.3-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.2...3.2.3-alpha
+[3.2.3]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.2...3.2.3
 [3.2.2]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.1...3.2.2
 [3.2.1]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.0...3.2.1
 [3.2.0]: https://github.com/Automattic/jetpack-changelogger/compare/3.1.3...3.2.0
