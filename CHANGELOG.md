@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Support merge strategy for jetpack changelogger, assuming that merge commits contains the pr number in the merge commit with format (#{pr_number}) towards the end.
+
 ## [3.2.3] - 2022-12-19
 ### Changed
 - `Utils::loadChangeFile()` now throws a custom subclass of `RuntimeException` instead of `RuntimeException` itself. [#27949]
@@ -135,6 +142,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[3.3.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.3...3.3.0-alpha
 [3.2.3]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.2...3.2.3
 [3.2.2]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.1...3.2.2
 [3.2.1]: https://github.com/Automattic/jetpack-changelogger/compare/3.2.0...3.2.1
