@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.6-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [3.3.5] - 2023-06-26
 
 ## [3.3.4] - 2023-05-22
@@ -155,6 +159,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[3.3.6-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.5...3.3.6-alpha
 [3.3.5]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.4...3.3.5
 [3.3.4]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.3...3.3.4
 [3.3.3]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.2...3.3.3
