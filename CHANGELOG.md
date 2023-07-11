@@ -3,7 +3,15 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.7-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- When omitting `--entry` for `changelogger add` in non-interactive mode for a patch-significance change, provide a hint on how to successfully create an empty entry.
+
 ## [3.3.6] - 2023-07-10
+
 - Minor internal updates.
 
 ## [3.3.5] - 2023-06-26
@@ -158,6 +166,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[3.3.7-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.6...3.3.7-alpha
 [3.3.6]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.5...3.3.6
 [3.3.5]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.4...3.3.5
 [3.3.4]: https://github.com/Automattic/jetpack-changelogger/compare/3.3.3...3.3.4
