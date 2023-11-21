@@ -7,6 +7,12 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add `symfony/*` v4.4 as an option, for use with PHP 7.1.
+
+### Removed
+- Remove use of `wikimedia/at-ease` package as PHP 7 improved the behavior of `@`.
+
 ## [4.0.0] - 2023-11-20
 ### Changed
 - Updated required PHP version to >= 7.0. [#34126]
