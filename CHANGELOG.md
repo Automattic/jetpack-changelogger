@@ -3,12 +3,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [4.2.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [4.2.0] - 2024-04-11
 ### Deprecated
-- Deprecated the `$subheading` parameter to `ChangelogEntry::getChangesBySubheading()` to make the return value clearer.
+- Deprecated the `$subheading` parameter to `ChangelogEntry::getChangesBySubheading()` to make the return value clearer. [#36755]
 
 ## [4.1.2] - 2024-03-18
 ### Changed
@@ -223,7 +220,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[4.2.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/4.1.2...4.2.0-alpha
+[4.2.0]: https://github.com/Automattic/jetpack-changelogger/compare/4.1.2...4.2.0
 [4.1.2]: https://github.com/Automattic/jetpack-changelogger/compare/4.1.1...4.1.2
 [4.1.1]: https://github.com/Automattic/jetpack-changelogger/compare/4.1.0...4.1.1
 [4.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/4.0.5...4.1.0
