@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.2.5-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Skip querying `git` in `changelogger version` command. We don't need the timestamp or PR number for that operation.
+
 ## [4.2.4] - 2024-05-20
 ### Changed
 - Internal updates.
@@ -236,6 +243,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[4.2.5-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.4...4.2.5-alpha
 [4.2.4]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.3...4.2.4
 [4.2.3]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.2...4.2.3
 [4.2.2]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.1...4.2.2
