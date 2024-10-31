@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.2.8-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Enable test coverage.
+
 ## [4.2.7] - 2024-10-25
 ### Fixed
 - When amending, do not preserve a default link. We'll want the link to be updated to the new default. [#39868]
@@ -248,6 +255,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[4.2.8-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.7...4.2.8-alpha
 [4.2.7]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.6...4.2.7
 [4.2.6]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.5...4.2.6
 [4.2.5]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.4...4.2.5
