@@ -3,6 +3,28 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [5.1.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Bump minimum PHP version from implicitly-7.2.0 to 7.2.5.
+
+### Deprecated
+- Using getChangesBySubheading() with a param now throws an exception.
+
+## [5.0.0] - 2024-11-14
+### Removed
+- General: Update minimum PHP version to 7.2. [#40147]
+
+## [4.2.8] - 2024-11-04
+### Added
+- Enable test coverage. [#39961]
+
+## [4.2.7] - 2024-10-25
+### Fixed
+- When amending, do not preserve a default link. We'll want the link to be updated to the new default. [#39868]
+
 ## [4.2.6] - 2024-08-22
 ### Changed
 - Updated package dependencies. [#39004]
@@ -244,6 +266,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[5.1.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/5.0.0...5.1.0-alpha
+[5.0.0]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.8...5.0.0
+[4.2.8]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.7...4.2.8
+[4.2.7]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.6...4.2.7
 [4.2.6]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.5...4.2.6
 [4.2.5]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.4...4.2.5
 [4.2.4]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.3...4.2.4
