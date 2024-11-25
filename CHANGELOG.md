@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Bump minimum PHP version from implicitly-7.2.0 to 7.2.5.
+
 ### Deprecated
 - Using getChangesBySubheading() with a param now throws an exception.
 
