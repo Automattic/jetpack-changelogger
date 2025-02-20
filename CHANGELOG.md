@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.0.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Removed
+- Drop support for installation with Composer < 2.2.
+
 ## [5.1.0] - 2024-11-25
 ### Changed
 - Bump minimum PHP version from implicitly-7.2.0 to 7.2.5. [#40297]
@@ -263,6 +270,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[6.0.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/5.1.0...6.0.0-alpha
 [5.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/5.0.0...5.1.0
 [5.0.0]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.8...5.0.0
 [4.2.8]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.7...4.2.8
