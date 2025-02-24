@@ -3,12 +3,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [6.0.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [6.0.0] - 2025-02-24
 ### Removed
-- Drop support for installation with Composer < 2.2.
+- Drop support for installation with Composer < 2.2. [#41876]
 
 ## [5.1.0] - 2024-11-25
 ### Changed
@@ -270,7 +267,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[6.0.0-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/5.1.0...6.0.0-alpha
+[6.0.0]: https://github.com/Automattic/jetpack-changelogger/compare/5.1.0...6.0.0
 [5.1.0]: https://github.com/Automattic/jetpack-changelogger/compare/5.0.0...5.1.0
 [5.0.0]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.8...5.0.0
 [4.2.8]: https://github.com/Automattic/jetpack-changelogger/compare/4.2.7...4.2.8
