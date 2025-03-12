@@ -36,10 +36,10 @@
 	],
 	"scripts": {
 		"phpunit": [
-			"./vendor/phpunit/phpunit/phpunit --colors=always"
+			"phpunit-select-config phpunit.#.xml.dist --colors=always"
 		],
 		"test-coverage": [
-			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-php \"$COVERAGE_DIR/php.cov\""
+			"php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\""
 		],
 		"test-php": [
 			"@composer phpunit"
@@ -60,6 +60,11 @@
 		},
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-changelogger/compare/${old}...${new}"
+		},
+		"dependencies": {
+			"test-only": [
+				"packages/phpunit-select-config"
+			]
 		}
 	}
 }
