@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.0.4-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Allow beta.2 in WordPress-style versioning.
+
 ## [6.0.3] - 2025-03-31
 ### Changed
 - Internal updates.
@@ -279,6 +286,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[6.0.4-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.3...6.0.4-alpha
 [6.0.3]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.2...6.0.3
 [6.0.2]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.1...6.0.2
 [6.0.1]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.0...6.0.1
