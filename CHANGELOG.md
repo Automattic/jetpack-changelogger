@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.0.11-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [6.0.10] - 2025-12-01
 ### Changed
 - Update tests to use addCommand() instead of deprecated add() method. [#46126]
@@ -307,6 +311,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial version.
 
+[6.0.11-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.10...6.0.11-alpha
 [6.0.10]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.9...6.0.10
 [6.0.9]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.8...6.0.9
 [6.0.8]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.7...6.0.8
