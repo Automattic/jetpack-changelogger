@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Ensure proper flags are used with `json_encode()`.
+
 ## [6.0.10] - 2025-12-01
 ### Changed
 - Update tests to use addCommand() instead of deprecated add() method. [#46126]
