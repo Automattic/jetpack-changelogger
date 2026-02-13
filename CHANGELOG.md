@@ -3,10 +3,12 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [6.0.14-alpha] - unreleased
+## [6.0.14] - 2026-02-12
+### Changed
+- Internal updates.
 
-This is an alpha version! The changes listed here are not final.
-
+### Fixed
+- Tests: Fix tests for PHPUnit 12.5.11 breakage.
 ## [6.0.13] - 2026-02-02
 ### Changed
 - Update package dependencies. [#46836]
@@ -323,7 +325,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version.
 
-[6.0.14-alpha]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.13...6.0.14-alpha
+[6.0.14]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.13...6.0.14
 [6.0.13]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.12...6.0.13
 [6.0.12]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.11...6.0.12
 [6.0.11]: https://github.com/Automattic/jetpack-changelogger/compare/6.0.10...6.0.11
