@@ -10,6 +10,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Sort and deduplicate entries that have the same text from different PRs.
 
+### Fixed
+- When a change entry file was deleted and then re-created locally, don't attribute it to the PR that deleted it.
+
 ## [7.0.5] - 2026-10-20
 ### Changed
 - Internal updates.
